@@ -1,7 +1,7 @@
 <!--Typing name-->
 <div align= "center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF007F&vCenter=true&random=false&width=435&lines=Hi!+i'm+Milena+Mayumi;a+programming+studant.)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF007F&vCenter=true&random=false&width=435&lines=Hi!+I'm+Milena+Mayumi;a+programming+student.)](https://git.io/typing-svg)
   
 </div>
 
